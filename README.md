@@ -14,5 +14,5 @@
 - PostgreSQL
 
 **Deployment and Virtualization:**
-- Vercel
+- Render
 - Docker
